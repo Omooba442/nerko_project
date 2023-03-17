@@ -15,6 +15,7 @@ export default function NerkoTemplate() {
   return (    
         <div className="wrap uk-overflow-hidden">     
             <Head>
+                
 				<title>Washapes || Nfts</title>
 			</Head> 
 			<HeaderFive/>
