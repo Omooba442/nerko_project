@@ -19,7 +19,7 @@ const HeroBannerFive = () => {
                             <div className="uk-panel uk-text-center uk-margin-top">
                                 <h1 className="uk-h2 uk-h1@s uk-heading-d1@m uk-text-uppercase">
                                     collect & sell <br className="uk-visible@m" />
-                                    <span className="uk-text-gradient">Super rare NFTS</span>
+                                    <span className="uk-text-gradient">Washapes Nfts</span>
                                 </h1>
                             </div>
                         </div>
