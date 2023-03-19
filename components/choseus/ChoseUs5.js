@@ -23,8 +23,10 @@ const ChoseUs5 = () =>{
                                             </div>
                                         </div>
                                         <div className="uk-panel uk-width-expand@s">
-                                            <h3 className="uk-h5 uk-text-uppercase">High Roi</h3>
-                                            <p>With a lot of potentials in the auto and car wash industry, it is evident that there is a chance for high returns on investment. Even better, the UpWash ecosystem is targeting the global NFT market, and with high adoption and constant expansion, our NFTs are expected to experience a constant price surge, enhanced rarity, and an increase in value..</p>
+                                            <h3 className="uk-h5 uk-text-uppercase">Leveraging Crypto , Nfts, Metaverse Space</h3>
+                                            <p>We estimate a growth that thrives on the large crypto market. UpWash will
+add to its list of customers by breaking into a market of existing users.
+Our exciting offers will make the decision..</p>
                                         </div>
                                     </div>
                                 </div>
@@ -38,12 +40,10 @@ const ChoseUs5 = () =>{
                                             </div>
                                         </div>
                                         <div className="uk-panel uk-width-expand@s">
-                                            <h3 className="uk-h5 uk-text-uppercase">Become A Partner</h3>
-                                            <p>An UpWash NFT holder has the right to participate extensively in our ecosystem
-by enhancing expansion into his or her country. We're not a system restricted by
-the border; our system is set to enhance this essential service with digital
-technology. As we gain more visibility, our NFTs holders can discern the need for
-our service in their locations and can request that we expand to the locations.</p>
+                                            <h3 className="uk-h5 uk-text-uppercase">More Teams</h3>
+                                            <p>We're taking a global step to bring car washing and auto repair
+service to everyone; hence, every NFT holder has the chance
+to expand our brand to their country..</p>
                                         </div>
                                     </div>
                                 </div>
@@ -57,11 +57,10 @@ our service in their locations and can request that we expand to the locations.<
                                             </div>
                                         </div>
                                         <div className="uk-panel uk-width-expand@s">
-                                            <h3 className="uk-h5 uk-text-uppercase">Cash Rewards</h3>
-                                            <p>Love to enjoy some cash prizes? We provide a good opportunity for this every
-three months. Our NFTs holders who have also assisted the brand in several
-ways will have the chance to win cash rewards during our ceremonies that will
-be held in Europe, Asia, South, and North America.</p>
+                                            <h3 className="uk-h5 uk-text-uppercase">Faster And Environmentally Safe Service</h3>
+                                            <p>We are introducing electric cars and scooters that will be distributed globally to
+our team members. This ensures that people have more reasons to request our service
+and always deliver without delay..</p>
                                         </div>
                                     </div>
                                 </div>
@@ -84,10 +83,10 @@ be held in Europe, Asia, South, and North America.</p>
                                             </div>
                                         </div>
                                         <div className="uk-panel uk-width-expand@s">
-                                            <h3 className="uk-h5 uk-text-uppercase">3D Mansion Rewards</h3>
-                                            <p>By purchasing the UpWash monkey NFTs, NFT holders will the get a 3D
-mansion reward in the metaverse. This is a fully decorated mansion that can
-be enjoyed by users in the virtual world..</p>
+                                            <h3 className="uk-h5 uk-text-uppercase">Publicity And Marketing</h3>
+                                            <p>We go public with updated ads and marketing strategies that
+ensure everyone in every country we are and beyond hears about UpWash.
+Our marketing team is ready to take up the task.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -119,16 +118,9 @@ be enjoyed by users in the virtual world..</p>
                                             </div>
                                         </div>
                                         <div className="uk-panel uk-width-expand@s">
-                                            <h3 className="uk-h5 uk-text-uppercase">Upwash In Metaverse</h3>
-                                            <p>UpWash is the first car wash and auto repair brand in the metaverse. We're not just going digital; we are
-exploring the virtual world like no other to provide users and avatars with an amazing world of exploration.
-Metaverse is a term that includes virtual reality and is characterized by the presence of a virtual world that
-continues to exist even when you're not actively participating. It is an online, 3D universe consisting of
-multiple virtual spaces allowing users to work together, play games, or socialize with one another.
-You can order our car washing service in the metaverse by owning an avatar. You can also increase the fun
-by paying to have our mascot washers do the job in full monkey suits.
-Our Avatars provide this service in the metaverse and even allow you to choose who washes the car. We
-have 1% UpWash mascot, 20% female driver/washer, and 79% male driver/washer.</p>
+                                            <h3 className="uk-h5 uk-text-uppercase">Intergrate Web 3.0</h3>
+                                            <p>Our mobile application and website will integrate web 3 tools to deliver excellently
+for faster process and user-friendly interface.</p>
                                         </div>
                                     </div>
                                 </div>
