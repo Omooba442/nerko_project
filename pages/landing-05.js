@@ -15,7 +15,7 @@ export default function NerkoTemplate() {
   return (    
         <div className="wrap uk-overflow-hidden">     
             <Head>
-				<title>Landing 05 || Nerko Next JS Template</title>
+				<title>Washapes Nfts</title>
 			</Head> 
 			<HeaderFive/>
 			<HeroBannerFive/>
