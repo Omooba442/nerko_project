@@ -4,7 +4,7 @@ const ChoseUs5 = () =>{
             <div className="uk-container">
             <header className="uk-grid-xsmall uk-flex-center uk-flex-middle uk-grid" data-uk-grid>
                 <div className="uk-panel uk-text-center">
-                    <h2 className="uk-h3 uk-h2@s uk-heading-d2@m uk-text-uppercase">How Washapes <span className="uk-text-gradient">creates the future?</span></h2>
+                    <h2 className="uk-h3 uk-h2@s uk-heading-d2@m uk-text-uppercase">Washapes <span className="uk-text-gradient">Business Model</span></h2>
                 </div>
             </header>
             <div className="uk-panel uk-margin-medium-top uk-margin-2xlarge-top@m" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 300;">
