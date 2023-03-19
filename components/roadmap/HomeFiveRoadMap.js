@@ -6,7 +6,7 @@ const HomeFiveRoadMap = () => {
                 <div className="uk-container">
                     <header className="uk-grid-xsmall uk-flex-center uk-flex-middle uk-text-center uk-child-width-auto@m uk-grid" data-uk-grid>
                         <div className="uk-panel">
-                            <h2 className="uk-h3 uk-h2@s uk-heading-d2@m uk-text-uppercase">Nerko's <span className="uk-text-gradient">Roadmap</span></h2>
+                            <h2 className="uk-h3 uk-h2@s uk-heading-d2@m uk-text-uppercase">How Washapes <span className="uk-text-gradient">Creates the future</span></h2>
                         </div>
                     </header>
                     <div className="uk-panel uk-margin-medium-top uk-margin-2xlarge-top@m">
@@ -15,22 +15,22 @@ const HomeFiveRoadMap = () => {
                                 <ul className="uni-roadmap-switcher" data-uk-switcher="connect: #uni-roadmap-nav; animation: uk-animation-slide-bottom-small, uk-animation-slide-top-small">
                                     <li>
                                         <Link href="#">
-                                            <h2 className="uk-h4 uk-h3@m uk-text-inherit uk-text-uppercase uk-margin-remove">New NFTS</h2>
+                                            <h2 className="uk-h4 uk-h3@m uk-text-inherit uk-text-uppercase uk-margin-remove">High Roi</h2>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#">
-                                            <h2 className="uk-h4 uk-h3@m uk-text-inherit uk-text-uppercase uk-margin-remove">Whitelist Minting</h2>
+                                            <h2 className="uk-h4 uk-h3@m uk-text-inherit uk-text-uppercase uk-margin-remove">Become A partner</h2>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#">
-                                            <h2 className="uk-h4 uk-h3@m uk-text-inherit uk-text-uppercase uk-margin-remove">Wireland NFT</h2>
+                                            <h2 className="uk-h4 uk-h3@m uk-text-inherit uk-text-uppercase uk-margin-remove">Cash Rewards</h2>
                                         </Link>
                                     </li>
                                     <li>
                                         <Link href="#" >
-                                            <h2 className="uk-h4 uk-h3@m uk-text-inherit uk-text-uppercase uk-margin-remove">Metaverse</h2>
+                                            <h2 className="uk-h4 uk-h3@m uk-text-inherit uk-text-uppercase uk-margin-remove">3D Mansion Rewards</h2>
                                         </Link>
                                     </li>
                                     <li>
@@ -49,8 +49,9 @@ const HomeFiveRoadMap = () => {
                                                     <div className="uk-card uk-card-small uk-card-medium@m uk-panel uk-radius uk-radius-large@m uk-border uk-box-shadow-xsmall dark:uk-background-white-5">
                                                         <div className="uk-panel">
                                                             <span className="uk-text-small uk-flex-center uk-flex-column uk-flex-middle uk-background-gradient uk-radius-xsmall uk-text-gray-10 uk-width-2xsmall">Phase 1</span>
-                                                            <h3 className="uk-h4 uk-h3@m uk-text-uppercase">Planning</h3>
-                                                            <p className="uk-text-large@m">Quality comes first. we took our time to plan out everything and build our production pipeline for a good quality artworks.</p>
+                                                            <h3 className="uk-h4 uk-h3@m uk-text-uppercase">High Roi </h3>
+                                                            <p className="uk-text-large@m">With a lot of potentials in the auto and car wash industry, it is evident that there
+is a chance for high returns on investment. </p>
                                                             <hr className="uk-width-2xsmall uk-margin-medium@m" />
                                                             <ul className="uk-list uk-text-small uk-text-medium@m">
                                                                 <li className="uk-flex-middle"><i className="uk-icon uk-icon-xsmall uk-icon-small@m unicon-checkmark-outline uk-margin-xsmall-right uk-text-gradient"></i> Release website and logo</li>
@@ -65,7 +66,10 @@ const HomeFiveRoadMap = () => {
                                                         <div className="uk-panel">
                                                             <span className="uk-text-small uk-flex-center uk-flex-column uk-flex-middle uk-background-gradient uk-radius-xsmall uk-text-gray-10 uk-width-2xsmall">Phase 2</span>
                                                             <h3 className="uk-h4 uk-h3@m uk-text-uppercase">Production</h3>
-                                                            <p className="uk-text-large@m">Starting the production on the procedurally generated planets and the smart contract for minting.</p>
+                                                            <p className="uk-text-large@m">Even better, the UpWash
+ecosystem is targeting the global NFT market, and with high adoption and
+constant expansion, our NFTs are expected to experience a constant price
+surge, enhanced rarity, and an increase in value.</p>
                                                             <hr className="uk-width-2xsmall uk-margin-medium@m" />
                                                             <ul className="uk-list uk-text-small uk-text-medium@m">
                                                                 <li className="uk-flex-middle"><i className="uk-icon uk-icon-xsmall uk-icon-small@m unicon-checkmark-outline uk-margin-xsmall-right uk-text-gradient"></i> Release website and logo</li>
@@ -83,8 +87,11 @@ const HomeFiveRoadMap = () => {
                                                     <div className="uk-card uk-card-small uk-card-medium@m uk-panel uk-radius uk-radius-large@m uk-border uk-box-shadow-xsmall dark:uk-background-white-5">
                                                         <div className="uk-panel">
                                                             <span className="uk-text-small uk-flex-center uk-flex-column uk-flex-middle uk-background-gradient uk-radius-xsmall uk-text-gray-10 uk-width-2xsmall">Phase 3</span>
-                                                            <h3 className="uk-h4 uk-h3@m uk-text-uppercase">Launch</h3>
-                                                            <p className="uk-text-large@m">Our most active community members will be able to join the whitelist so they can discover, collect and sell their NFTs.</p>
+                                                            <h3 className="uk-h4 uk-h3@m uk-text-uppercase">Become A Partner</h3>
+                                                            <p className="uk-text-large@m">An UpWash NFT holder has the right to participate extensively in our ecosystem
+by enhancing expansion into his or her country. We're not a system restricted by
+the border; our system is set to enhance this essential service with digital
+technology. .</p>
                                                             <hr className="uk-width-2xsmall uk-margin-medium@m" />
                                                             <ul className="uk-list uk-text-small uk-text-medium@m">
                                                                 <li className="uk-flex-middle"><i className="uk-icon uk-icon-xsmall uk-icon-small@m unicon-checkmark-outline uk-margin-xsmall-right uk-text-gradient"></i> Release website and logo</li>
@@ -98,8 +105,9 @@ const HomeFiveRoadMap = () => {
                                                     <div className="uk-card uk-card-small uk-card-medium@m uk-panel uk-radius uk-radius-large@m uk-border uk-box-shadow-xsmall dark:uk-background-white-5">
                                                         <div className="uk-panel">
                                                             <span className="uk-text-small uk-flex-center uk-flex-column uk-flex-middle uk-background-gradient uk-radius-xsmall uk-text-gray-10 uk-width-2xsmall">Phase 4</span>
-                                                            <h3 className="uk-h4 uk-h3@m uk-text-uppercase">Minting</h3>
-                                                            <p className="uk-text-large@m">Per-Sale Minting is opened for our Whitelisted members. The price for whitelist minting will be 0.5 SOL.</p>
+                                                            <h3 className="uk-h4 uk-h3@m uk-text-uppercase">Expansion</h3>
+                                                            <p className="uk-text-large@m">As we gain more visibility, our NFTs holders can discern the need for
+our service in their locations and can request that we expand to the locations.</p>
                                                             <hr className="uk-width-2xsmall uk-margin-medium@m" />
                                                             <ul className="uk-list uk-text-small uk-text-medium@m">
                                                                 <li className="uk-flex-middle"><i className="uk-icon uk-icon-xsmall uk-icon-small@m unicon-checkmark-outline uk-margin-xsmall-right uk-text-gradient"></i> Release website and logo</li>
@@ -132,8 +140,9 @@ const HomeFiveRoadMap = () => {
                                                     <div className="uk-card uk-card-small uk-card-medium@m uk-panel uk-radius uk-radius-large@m uk-border uk-box-shadow-xsmall dark:uk-background-white-5">
                                                         <div className="uk-panel">
                                                             <span className="uk-text-small uk-flex-center uk-flex-column uk-flex-middle uk-background-gradient uk-radius-xsmall uk-text-gray-10 uk-width-2xsmall">Phase 6</span>
-                                                            <h3 className="uk-h4 uk-h3@m uk-text-uppercase">Research</h3>
-                                                            <p className="uk-text-large@m">A complete account of the system, and expound the actual teachings of the great explorer of the truth.</p>
+                                                            <h3 className="uk-h4 uk-h3@m uk-text-uppercase">Cash rewrads</h3>
+                                                            <p className="uk-text-large@m">Love to enjoy some cash prizes? We provide a good opportunity for this every
+three months.</p>
                                                             <hr className="uk-width-2xsmall uk-margin-medium@m" />
                                                             <ul className="uk-list uk-text-small uk-text-medium@m">
                                                                 <li className="uk-flex-middle"><i className="uk-icon uk-icon-xsmall uk-icon-small@m unicon-checkmark-outline uk-margin-xsmall-right uk-text-gradient"></i> Release website and logo</li>
@@ -151,8 +160,10 @@ const HomeFiveRoadMap = () => {
                                                     <div className="uk-card uk-card-small uk-card-medium@m uk-panel uk-radius uk-radius-large@m uk-border uk-box-shadow-xsmall dark:uk-background-white-5">
                                                         <div className="uk-panel">
                                                             <span className="uk-text-small uk-flex-center uk-flex-column uk-flex-middle uk-background-gradient uk-radius-xsmall uk-text-gray-10 uk-width-2xsmall">Phase 7</span>
-                                                            <h3 className="uk-h4 uk-h3@m uk-text-uppercase">Community</h3>
-                                                            <p className="uk-text-large@m">Quality comes first. we took our time to plan out everything and build our production pipeline for a good quality artworks.</p>
+                                                            <h3 className="uk-h4 uk-h3@m uk-text-uppercase">Rewards</h3>
+                                                            <p className="uk-text-large@m">Our NFTs holders who have also assisted the brand in several
+ways will have the chance to win cash rewards during our ceremonies that will
+be held in Europe, Asia, South, and North America.</p>
                                                             <hr className="uk-width-2xsmall uk-margin-medium@m" />
                                                             <ul className="uk-list uk-text-small uk-text-medium@m">
                                                                 <li className="uk-flex-middle"><i className="uk-icon uk-icon-xsmall uk-icon-small@m unicon-checkmark-outline uk-margin-xsmall-right uk-text-gradient"></i> Release website and logo</li>
@@ -166,8 +177,10 @@ const HomeFiveRoadMap = () => {
                                                     <div className="uk-card uk-card-small uk-card-medium@m uk-panel uk-radius uk-radius-large@m uk-border uk-box-shadow-xsmall dark:uk-background-white-5">
                                                         <div className="uk-panel">
                                                             <span className="uk-text-small uk-flex-center uk-flex-column uk-flex-middle uk-background-gradient uk-radius-xsmall uk-text-gray-10 uk-width-2xsmall">Phase 8</span>
-                                                            <h3 className="uk-h4 uk-h3@m uk-text-uppercase">Production</h3>
-                                                            <p className="uk-text-large@m">Starting the production on the procedurally generated planets and the smart contract for minting.</p>
+                                                            <h3 className="uk-h4 uk-h3@m uk-text-uppercase">3D Mansion Rewards</h3>
+                                                            <p className="uk-text-large@m">By purchasing the UpWash monkey NFTs, NFT holders will the get a 3D
+mansion reward in the metaverse. This is a fully decorated mansion that can
+be enjoyed by users in the virtual world.</p>
                                                             <hr className="uk-width-2xsmall uk-margin-medium@m" />
                                                             <ul className="uk-list uk-text-small uk-text-medium@m">
                                                                 <li className="uk-flex-middle"><i className="uk-icon uk-icon-xsmall uk-icon-small@m unicon-checkmark-outline uk-margin-xsmall-right uk-text-gradient"></i> Release website and logo</li>
