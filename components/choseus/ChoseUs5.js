@@ -4,7 +4,7 @@ const ChoseUs5 = () =>{
             <div className="uk-container">
             <header className="uk-grid-xsmall uk-flex-center uk-flex-middle uk-grid" data-uk-grid>
                 <div className="uk-panel uk-text-center">
-                    <h2 className="uk-h3 uk-h2@s uk-heading-d2@m uk-text-uppercase">Why <span className="uk-text-gradient">choose us?</span></h2>
+                    <h2 className="uk-h3 uk-h2@s uk-heading-d2@m uk-text-uppercase">How Washapes <span className="uk-text-gradient">creates the future?</span></h2>
                 </div>
             </header>
             <div className="uk-panel uk-margin-medium-top uk-margin-2xlarge-top@m" data-anime="opacity:[0, 1]; translateY:[24, 0]; onview: true; delay: 300;">
@@ -23,8 +23,8 @@ const ChoseUs5 = () =>{
                                             </div>
                                         </div>
                                         <div className="uk-panel uk-width-expand@s">
-                                            <h3 className="uk-h5 uk-text-uppercase">Connect your wallet</h3>
-                                            <p>Use Trust Wallet, Metamask or to connect to the app.</p>
+                                            <h3 className="uk-h5 uk-text-uppercase">High Roi</h3>
+                                            <p>With a lot of potentials in the auto and car wash industry, it is evident that there is a chance for high returns on investment. Even better, the UpWash ecosystem is targeting the global NFT market, and with high adoption and constant expansion, our NFTs are expected to experience a constant price surge, enhanced rarity, and an increase in value..</p>
                                         </div>
                                     </div>
                                 </div>
@@ -38,8 +38,12 @@ const ChoseUs5 = () =>{
                                             </div>
                                         </div>
                                         <div className="uk-panel uk-width-expand@s">
-                                            <h3 className="uk-h5 uk-text-uppercase">Select your quantity</h3>
-                                            <p>Upload your NFTs and set a title, description and price.</p>
+                                            <h3 className="uk-h5 uk-text-uppercase">Become A Partner</h3>
+                                            <p>An UpWash NFT holder has the right to participate extensively in our ecosystem
+by enhancing expansion into his or her country. We're not a system restricted by
+the border; our system is set to enhance this essential service with digital
+technology. As we gain more visibility, our NFTs holders can discern the need for
+our service in their locations and can request that we expand to the locations.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -53,8 +57,11 @@ const ChoseUs5 = () =>{
                                             </div>
                                         </div>
                                         <div className="uk-panel uk-width-expand@s">
-                                            <h3 className="uk-h5 uk-text-uppercase">Confirm transaction</h3>
-                                            <p>Earn ETH all your NFTs that you sell on our marketplace.</p>
+                                            <h3 className="uk-h5 uk-text-uppercase">Cash Rewards</h3>
+                                            <p>Love to enjoy some cash prizes? We provide a good opportunity for this every
+three months. Our NFTs holders who have also assisted the brand in several
+ways will have the chance to win cash rewards during our ceremonies that will
+be held in Europe, Asia, South, and North America.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -77,8 +84,10 @@ const ChoseUs5 = () =>{
                                             </div>
                                         </div>
                                         <div className="uk-panel uk-width-expand@s">
-                                            <h3 className="uk-h5 uk-text-uppercase">Receive your own NFTs</h3>
-                                            <p>Invest and manage all your NFTs at one place on one platform.</p>
+                                            <h3 className="uk-h5 uk-text-uppercase">3D Mansion Rewards</h3>
+                                            <p>By purchasing the UpWash monkey NFTs, NFT holders will the get a 3D
+mansion reward in the metaverse. This is a fully decorated mansion that can
+be enjoyed by users in the virtual world..</p>
                                         </div>
                                     </div>
                                 </div>
@@ -110,8 +119,16 @@ const ChoseUs5 = () =>{
                                             </div>
                                         </div>
                                         <div className="uk-panel uk-width-expand@s">
-                                            <h3 className="uk-h5 uk-text-uppercase">Drive your collection</h3>
-                                            <p>We make it easy to Discover, Invest and manage.</p>
+                                            <h3 className="uk-h5 uk-text-uppercase">Upwash In Metaverse</h3>
+                                            <p>UpWash is the first car wash and auto repair brand in the metaverse. We're not just going digital; we are
+exploring the virtual world like no other to provide users and avatars with an amazing world of exploration.
+Metaverse is a term that includes virtual reality and is characterized by the presence of a virtual world that
+continues to exist even when you're not actively participating. It is an online, 3D universe consisting of
+multiple virtual spaces allowing users to work together, play games, or socialize with one another.
+You can order our car washing service in the metaverse by owning an avatar. You can also increase the fun
+by paying to have our mascot washers do the job in full monkey suits.
+Our Avatars provide this service in the metaverse and even allow you to choose who washes the car. We
+have 1% UpWash mascot, 20% female driver/washer, and 79% male driver/washer.</p>
                                         </div>
                                     </div>
                                 </div>
