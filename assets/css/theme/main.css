@@ -2935,8 +2935,8 @@
   --header-cart-color-text-hover: var(--color-primary);
   /*
    * Css vars gradient
-   */--gradient-first: #2600fc;
-  --gradient-second: #ff00ea;
+   */--gradient-first: #FF6600;
+  --gradient-second: #d22000;
   --gradient-angle: 25deg
 }
 [class*=uk-width] {
